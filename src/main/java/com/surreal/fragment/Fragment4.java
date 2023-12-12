@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Fragment4 {
     
-    private final String narrative = "The walls began to whisper";
+    private final String narrative = "Fragment 4 of the distributed narrative";
     
     public String getNarrative() {
         return narrative;
